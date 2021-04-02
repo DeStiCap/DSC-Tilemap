@@ -1,0 +1,19 @@
+{
+    "name": "com.dsc.tilemap2d",
+    "author": "DeStiCap",
+    "displayName": "DSC Tilemap 2D",
+    "version": "0.0.0-preview.1",
+    "unity": "2020.3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DeStiCap/DSC-Tilemap2D.git",
+        "revision": "https://github.com/DeStiCap/DSC-Tilemap2D.git"
+    },
+    "description": "Tilemap system for unity.",
+    "keywords": [
+        "Tilemap"
+    ],
+    "dependencies": {
+        "com.unity.2d.tilemap": "1.0.0"
+    }
+}

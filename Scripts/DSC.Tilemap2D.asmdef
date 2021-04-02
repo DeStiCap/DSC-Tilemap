@@ -1,0 +1,16 @@
+{
+    "name": "DSC.Tilemap2D",
+    "rootNamespace": "DSC.Tilemap2D",
+    "references": [
+        "GUID:acff8e849db7dec488c770445e10185e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
